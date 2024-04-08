@@ -2,14 +2,14 @@ import React from 'react';
 
 import './index.css'
 
-import ListChanger from "./listChanger/index";
+import EffectTester from "./effectTester/index";
 
 function Main(){
 
 
 
     return <div >
-        <ListChanger />
+        <EffectTester />
     </div>
 
 }
