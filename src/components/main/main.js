@@ -2,14 +2,14 @@ import React from 'react';
 
 import './index.css'
 
-import EffectTester from "./effectTester/index";
+import ContextTester from "./contextTetser/index";
 
 function Main(){
 
 
 
     return <div >
-        <EffectTester />
+        <ContextTester />
     </div>
 
 }
